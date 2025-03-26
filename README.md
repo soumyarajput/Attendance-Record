@@ -30,3 +30,4 @@ Database: PostgreSQL / MySQL / Firebase
 Authentication: Firebase Auth / JWT
 
 Hosting: Vercel (Frontend), AWS / Render (Backend)
+sex
